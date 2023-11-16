@@ -43,3 +43,21 @@ Representa las vías o calles dentro de un barrio y gestiona los árboles presen
 ### `Arbol`
 
 Ofrece una estructura para representar y manipular los árboles presentes en las vías de la ciudad, con métodos para acceder a sus atributos y realizar comparaciones.
+
+## Descripción de los Algoritmos
+
+### Algoritmo 1: `algoritmo1(string nombreVia, string nombFichero)`
+
+- **Descripción:** Busca una vía por su nombre y escribe los árboles de esa vía en un archivo especificado.
+
+### Algoritmo 2: `algoritmo2(string genero)`
+
+- **Descripción:** Recorre los barrios y recopila árboles de un género particular, mostrándolos por pantalla junto con el nombre de la vía a la que pertenecen.
+
+### Algoritmo 3: `algoritmo3(string nombFichero2)`
+
+- **Descripción:** Crea un archivo donde registra el total de árboles por cada especie.
+
+### Algoritmo 4: `algoritmo4()`
+
+- **Descripción:** Muestra por pantalla el número de árboles por barrio.
