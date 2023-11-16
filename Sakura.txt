@@ -1,0 +1,407 @@
+Especie: Robinia_pseudoacacia
+Familia: Fabaceae
+Nombre común: ACACIA
+Género: ROBINIA
+Diámetro: 0.1
+Altura: 6
+Copa: 3
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Robinia_pseudoacacia
+Familia: Leguminosae
+Nombre común: ACACIA DE BOLA
+Género: ROBINIA
+Diámetro: 130
+Altura: 6
+Copa: 4
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Robinia_pseudoacacia
+Familia: Leguminosae
+Nombre común: ACACIA DE BOLA
+Género: ROBINIA
+Diámetro: 0.09
+Altura: 6
+Copa: 3
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Robinia_pseudoacacia
+Familia: Leguminosae
+Nombre común: ACACIA DE BOLA
+Género: ROBINIA
+Diámetro: 0.12
+Altura: 6
+Copa: 3.5
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Robinia_pseudoacacia
+Familia: Leguminosae
+Nombre común: ACACIA DE BOLA
+Género: ROBINIA
+Diámetro: 0.12
+Altura: 6
+Copa: 4.5
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Robinia_pseudoacacia
+Familia: Leguminosae
+Nombre común: ACACIA DE BOLA
+Género: ROBINIA
+Diámetro: 0.11
+Altura: 6
+Copa: 3
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Robinia_pseudoacacia
+Familia: Leguminosae
+Nombre común: ACACIA DE BOLA
+Género: ROBINIA
+Diámetro: 0.12
+Altura: 12
+Copa: 3.5
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Robinia_pseudoacacia
+Familia: Leguminosae
+Nombre común: ACACIA DE BOLA
+Género: ROBINIA
+Diámetro: 0.14
+Altura: 12
+Copa: 4
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Robinia_pseudoacacia
+Familia: Leguminosae
+Nombre común: ACACIA DE BOLA
+Género: ROBINIA
+Diámetro: 0.11
+Altura: 12
+Copa: 4
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Robinia_pseudoacacia
+Familia: Leguminosae
+Nombre común: ACACIA DE BOLA
+Género: ROBINIA
+Diámetro: 0.11
+Altura: 6
+Copa: 4
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Robinia_pseudoacacia
+Familia: Leguminosae
+Nombre común: ACACIA DE BOLA
+Género: ROBINIA
+Diámetro: 0.09
+Altura: 6
+Copa: 4
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Robinia_pseudoacacia
+Familia: Leguminosae
+Nombre común: ACACIA DE BOLA
+Género: ROBINIA
+Diámetro: 0.09
+Altura: 6
+Copa: 4
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Robinia_pseudoacacia
+Familia: Leguminosae
+Nombre común: ACACIA DE BOLA
+Género: ROBINIA
+Diámetro: 0
+Altura: 12
+Copa: 0
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Robinia_pseudoacacia
+Familia: Leguminosae
+Nombre común: ACACIA DE BOLA
+Género: ROBINIA
+Diámetro: 0.09
+Altura: 6
+Copa: 4
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Robinia_pseudoacacia
+Familia: Leguminosae
+Nombre común: ACACIA DE BOLA
+Género: ROBINIA
+Diámetro: 0.09
+Altura: 6
+Copa: 2.5
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Robinia_pseudoacacia
+Familia: Leguminosae
+Nombre común: ACACIA DE BOLA
+Género: ROBINIA
+Diámetro: 0.07
+Altura: 6.5
+Copa: 3
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Robinia_pseudoacacia
+Familia: Leguminosae
+Nombre común: ACACIA DE BOLA
+Género: ROBINIA
+Diámetro: 0.12
+Altura: 6
+Copa: 4
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Prunus_cerasifera
+Familia: Rosaceae
+Nombre común: CIRUELO JAPONES
+Género: PRUNUS
+Diámetro: 0.08
+Altura: 3.5
+Copa: 3
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Prunus_cerasifera
+Familia: Rosaceae
+Nombre común: CIRUELO JAPONES
+Género: PRUNUS
+Diámetro: 0.07
+Altura: 3.5
+Copa: 3
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Prunus_cerasifera
+Familia: Rosaceae
+Nombre común: CIRUELO JAPONES
+Género: PRUNUS
+Diámetro: 0.09
+Altura: 3.5
+Copa: 3
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Prunus_cerasifera
+Familia: Rosaceae
+Nombre común: CIRUELO JAPONES
+Género: PRUNUS
+Diámetro: 0
+Altura: 0
+Copa: 0
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Prunus_cerasifera
+Familia: Rosaceae
+Nombre común: CIRUELO JAPONES
+Género: PRUNUS
+Diámetro: 0.06
+Altura: 3.5
+Copa: 1
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Prunus_cerasifera
+Familia: Rosaceae
+Nombre común: CIRUELO JAPONES
+Género: PRUNUS
+Diámetro: 0.07
+Altura: 3.5
+Copa: 1.5
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Prunus_cerasifera
+Familia: Rosaceae
+Nombre común: CIRUELO JAPONES
+Género: PRUNUS
+Diámetro: 0
+Altura: 0
+Copa: 0
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Prunus_cerasifera
+Familia: Rosaceae
+Nombre común: CIRUELO JAPONES
+Género: PRUNUS
+Diámetro: 0.04
+Altura: 3.5
+Copa: 0.5
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Prunus_cerasifera
+Familia: Rosaceae
+Nombre común: CIRUELO JAPONES
+Género: PRUNUS
+Diámetro: 0.04
+Altura: 1.5
+Copa: 1
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Prunus_cerasifera
+Familia: Rosaceae
+Nombre común: CIRUELO JAPONES
+Género: PRUNUS
+Diámetro: 0.07
+Altura: 8
+Copa: 1.5
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Prunus_cerasifera
+Familia: Rosaceae
+Nombre común: CIRUELO JAPONES
+Género: PRUNUS
+Diámetro: 0.07
+Altura: 3.5
+Copa: 2
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Prunus_cerasifera
+Familia: Rosaceae
+Nombre común: CIRUELO JAPONES
+Género: PRUNUS
+Diámetro: 0.06
+Altura: 3.5
+Copa: 2
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Prunus_cerasifera
+Familia: Rosaceae
+Nombre común: CIRUELO JAPONES
+Género: PRUNUS
+Diámetro: 0.04
+Altura: 8
+Copa: 1
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Prunus_cerasifera
+Familia: Rosaceae
+Nombre común: CIRUELO JAPONES
+Género: PRUNUS
+Diámetro: 0.06
+Altura: 8
+Copa: 2
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Catalpa_bungei
+Familia: Bignoniaceae
+Nombre común: CATALPA DE BUNGE
+Género: CATALPA
+Diámetro: 0.05
+Altura: 3
+Copa: 1
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Catalpa_bungei
+Familia: Bignoniaceae
+Nombre común: CATALPA DE BUNGE
+Género: CATALPA
+Diámetro: 4.5
+Altura: 3.55
+Copa: 0
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Catalpa_bungei
+Familia: Bignoniaceae
+Nombre común: CATALPA DE BUNGE
+Género: CATALPA
+Diámetro: 0.04
+Altura: 3
+Copa: 1
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Catalpa_bungei
+Familia: Bignoniaceae
+Nombre común: CATALPA DE BUNGE
+Género: CATALPA
+Diámetro: 0.02
+Altura: 3
+Copa: 4
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Catalpa_bungei
+Familia: Bignoniaceae
+Nombre común: CATALPA DE BUNGE
+Género: CATALPA
+Diámetro: 0.1
+Altura: 2.5
+Copa: 3
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+
+Especie: Catalpa_bungei
+Familia: Bignoniaceae
+Nombre común: CATALPA DE BUNGE
+Género: CATALPA
+Diámetro: 0.09
+Altura: 2.5
+Copa: 4
+Riego: MANUAL
+Unidades: 1
+Código de la vía: 3604
+

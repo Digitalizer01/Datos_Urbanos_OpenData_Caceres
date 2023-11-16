@@ -1,0 +1,33 @@
+Especie: Acer_sacharinum
+Familia: Aceraceae
+Nombre común: ARCE PLATEADO
+Género: ACER
+Diámetro: 0.04
+Altura: 2.6
+Copa: 0.9
+Riego: ASPERSION
+Unidades: 1
+Código de la vía: 1556
+
+Especie: Acer_sacharinum
+Familia: Aceraceae
+Nombre común: ARCE PLATEADO
+Género: ACER
+Diámetro: 0.04
+Altura: 2.6
+Copa: 0.9
+Riego: ASPERSION
+Unidades: 1
+Código de la vía: 1556
+
+Especie: Acer_sacharinum
+Familia: Aceraceae
+Nombre común: ARCE PLATEADO
+Género: ACER
+Diámetro: 0.04
+Altura: 2.6
+Copa: 0.9
+Riego: ASPERSION
+Unidades: 1
+Código de la vía: 1556
+
